@@ -1,10 +1,6 @@
 ### Hi, Fellas! 
 ### I'm Serhat. 👋🏼🧑🏽‍💻
 
-<img width="749" alt="ban" src="https://github.com/srhtsimsek/srhtsimsek/assets/90550549/ba2cc027-d03f-4086-aa3e-aa2d232787de">
-
-
-
 - ✍🏼
 
 I'm trying to improve myself in iOS mobile application development. And I am determined about it!  
@@ -12,6 +8,10 @@ I'm trying to improve myself in iOS mobile application development. And I am det
 - 💬
 
 Trying new things and tasting new flavors excite me. I don't hesitate to try, I think I will gain experience at worst. I enjoy traveling, reading, watching movies, and doing sports.
+
+
+
+
 
 - 📫 How to reach me:
 
